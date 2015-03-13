@@ -1,0 +1,18 @@
+# Play
+logs
+project/project
+target
+tmp
+.history
+dist
+/out
+/.classpath
+/.project
+/RUNNING_PID
+
+# IDEA
+/.idea
+/.idea_modules
+/*.iml
+/.settings
+atlassian-ide-plugin.xml
